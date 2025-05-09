@@ -1,5 +1,6 @@
 # IoT25-HW01
 
+### Screenshot of Arduino IDE showing selected board & port
 ![image](https://github.com/user-attachments/assets/46b81d67-45da-42e0-bfae-179e27ca3d67)
 
 ![image](https://github.com/user-attachments/assets/abc4e0b0-331c-4e0d-b3d8-d9ef3e1b0cde)
